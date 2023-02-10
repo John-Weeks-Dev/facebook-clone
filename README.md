@@ -13,7 +13,7 @@ Come and check out my YOUTUBE channel for lots more tutorials -> https://www.you
 ## App Setup
 
 ```
-git clone https://github.com/John-Weeks-Dev/twitter-clone.git
+git clone https://github.com/John-Weeks-Dev/facebook-clone.git
 
 composer install 
 
@@ -36,7 +36,7 @@ Create the DB
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=twitter-clone
+DB_DATABASE=facebook_clone
 DB_USERNAME=root
 DB_PASSWORD=
 ```
